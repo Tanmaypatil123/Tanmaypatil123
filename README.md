@@ -29,6 +29,7 @@
 <a href="https://kaggle.com/tanmaypatil3151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tanmaypatil3151" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@neuralnetworkstv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@neuralnetworkstv" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tanmaypatil3151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanmaypatil3151" height="30" width="40" /></a>
+  <a href="https://huggingface.co/Patil" target="blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="tanmaypatil3151" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
