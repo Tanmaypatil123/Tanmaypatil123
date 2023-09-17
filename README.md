@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmaypatil123" alt="tanmaypatil123" /></a> </p>
 
-- 🔭 I’m currently working on [Native-lang-to-text](https://github.com/Sapiens-ai/Native-lang-to-text)
+- 🔭 I’m currently working on [DialogueHub](https://github.com/Tanmaypatil123/DialogueHub)
 
 - 🌱 I’m currently learning **MLOps, DevOps.**
 
