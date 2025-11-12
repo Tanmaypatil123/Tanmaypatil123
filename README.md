@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/mlwithtanmay/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="linkedin" style="max-width: 100%;">
   </a>
-  <a href="https://twitter.com/TanmayP1126326">
+  <a href="https://x.com/TanmayPatil79">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="twitter" style="max-width: 100%;">
   </a>
 </div>
